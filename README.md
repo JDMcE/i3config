@@ -6,3 +6,4 @@ Requires:
 * nitrogen
 * rofi
 * [picom]
+* [compton]
