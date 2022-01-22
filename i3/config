@@ -30,7 +30,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
 #Set desktop background
-exec --no-startup-id nitrogen --set-auto /usr/share/backgrounds/Way_by_Kacper_Ślusarczyk.jpg --head=0
+exec --no-startup-id nitrogen --restore
 
 #Start picom for transparency
 exec --no-startup-id picom -CGb
